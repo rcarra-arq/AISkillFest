@@ -1,3 +1,4 @@
+This project was made using GitHub Copilot!! During AI SKill Fest
 # AISkillFest — Hello World Python App
 
 A minimal Python console application used for demonstration during AISkillFest.
